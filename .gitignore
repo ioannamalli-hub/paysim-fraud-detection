@@ -1,0 +1,10 @@
+# Data (too big for GitHub, download from Kaggle)
+paysim.csv
+*.csv
+
+# Python environment
+.venv/
+
+# Jupyter / Mac clutter
+.ipynb_checkpoints/
+.DS_Store
